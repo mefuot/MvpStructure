@@ -1,4 +1,4 @@
-package com.pong.mvpstructure;
+package com.pong.sample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

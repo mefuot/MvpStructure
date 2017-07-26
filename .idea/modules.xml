@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MvpStructure.iml" filepath="$PROJECT_DIR$/MvpStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpstructures/mvpstructures.iml" filepath="$PROJECT_DIR$/mvpstructures/mvpstructures.iml" />
     </modules>
   </component>
 </project>
