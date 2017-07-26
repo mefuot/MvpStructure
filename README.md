@@ -1,6 +1,17 @@
 # MvpStructure
 MVP layout base class for Android
 
+```java
+MvpContract
+MvpContract.View
+MvpContract.ViewWithLoading
+MvpContract.Presenter<V extend MvpContract.View>
+
+MvpPresenter<V extend MvpContract.View>
+
+MvpView<P extend MvpContract.Presenter>
+```
+
 
 ### Install
 #### Maven
