@@ -13,8 +13,8 @@ MvpView<P extend MvpContract.Presenter>
 ```
 
 
-### Install
-#### Maven
+## Install
+### Maven
 ```groovy
 <dependency>
   <groupId>com.pong.library</groupId>
@@ -23,11 +23,11 @@ MvpView<P extend MvpContract.Presenter>
   <type>pom</type>
 </dependency>
 ```
-#### Gradle
+### Gradle
 ```groovy
 compile 'com.pong.library:mvp-structure:1.0.0'
 ```
 
 
-### About
+## About
 See sample project structure at :app
