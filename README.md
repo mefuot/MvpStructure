@@ -1,8 +1,8 @@
 # MvpStructure
 MVP layout base class for Android
 
-## Install
-### Maven
+### Install
+#### Maven
 ```groovy
 <dependency>
   <groupId>com.pong.library</groupId>
@@ -11,14 +11,14 @@ MVP layout base class for Android
   <type>pom</type>
 </dependency>
 ```
-### Gradle
+#### Gradle
 ```groovy
 compile 'com.pong.library:mvp-structure:1.0.0'
 ```
-## About
+### About
 See sample project structure at :app
 
-## License
+### License
 <pre>
 Copyright 2017 Pongpol Pramanpol
 
