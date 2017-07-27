@@ -1,9 +1,20 @@
 # MvpStructure
 MVP layout base class for Android
 
+```java
+MvpContract
+MvpContract.View
+MvpContract.ViewWithLoading
+MvpContract.Presenter<V extend MvpContract.View>
 
-### Install
-#### Maven
+MvpPresenter<V extend MvpContract.View>
+
+MvpView<P extend MvpContract.Presenter>
+```
+
+
+## Install
+### Maven
 ```groovy
 <dependency>
   <groupId>com.pong.library</groupId>
@@ -12,11 +23,11 @@ MVP layout base class for Android
   <type>pom</type>
 </dependency>
 ```
-#### Gradle
+### Gradle
 ```groovy
 compile 'com.pong.library:mvp-structure:1.0.0'
 ```
 
 
-### About
+## About
 See sample project structure at :app
