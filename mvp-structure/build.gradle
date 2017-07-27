@@ -54,5 +54,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'
+apply from: 'https://gist.githubusercontent.com/mefuot/fe34610f126fa9d944b07daa95a6491c/raw/2103929036c3a57ce10b66fe42f67e8dbd2831bc/buildlib.gradle'
+apply from: 'https://gist.githubusercontent.com/mefuot/fe34610f126fa9d944b07daa95a6491c/raw/2103929036c3a57ce10b66fe42f67e8dbd2831bc/bintray.gradle'
