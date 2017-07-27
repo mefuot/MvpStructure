@@ -1,4 +1,4 @@
-package com.pong.mvpstructure;
+package com.pong.mvp_structure;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.pong.mvpstructure.test", appContext.getPackageName());
+        assertEquals("com.pong.mvp_structure.test", appContext.getPackageName());
     }
 }

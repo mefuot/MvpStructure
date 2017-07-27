@@ -1,1 +1,1 @@
-include ':app', ':mvpstructures'
+include ':app', ':mvp-structure'

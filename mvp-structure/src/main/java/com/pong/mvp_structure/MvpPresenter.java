@@ -1,4 +1,4 @@
-package com.pong.mvpstructure;
+package com.pong.mvp_structure;
 
 import java.lang.ref.WeakReference;
 
